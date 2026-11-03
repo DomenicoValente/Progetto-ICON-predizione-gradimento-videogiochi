@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/games.csv
+data/games.json
+data/games.pkl
+data/games_target.pkl
